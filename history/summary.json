@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 234,
-    "timeWeek": 234,
-    "timeMonth": 234,
-    "timeYear": 234,
+    "time": 274,
+    "timeDay": 274,
+    "timeWeek": 274,
+    "timeMonth": 274,
+    "timeYear": 274,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 205,
-    "timeWeek": 205,
-    "timeMonth": 205,
-    "timeYear": 205,
+    "time": 278,
+    "timeDay": 278,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 278,
     "dailyMinutesDown": {}
   },
   {
@@ -46,31 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 129,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "time": 178,
+    "timeDay": 178,
+    "timeWeek": 178,
+    "timeMonth": 178,
+    "timeYear": 178,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Jupyter",
-    "url": "https://jupyter.ml.documentcrunch.com",
-    "icon": "https://favicons.githubusercontent.com/jupyter.ml.documentcrunch.com",
-    "slug": "jupyter",
-    "status": "down",
-    "uptime": "0.28%",
-    "uptimeDay": "0.28%",
-    "uptimeWeek": "0.28%",
-    "uptimeMonth": "0.28%",
-    "uptimeYear": "0.28%",
-    "time": 125,
-    "timeDay": 125,
-    "timeWeek": 125,
-    "timeMonth": 125,
-    "timeYear": 125,
-    "dailyMinutesDown": {
-      "2022-04-19": 4
-    }
   }
 ]
