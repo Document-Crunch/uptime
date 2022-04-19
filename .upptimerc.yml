@@ -8,9 +8,9 @@ sites:
   - name: Document Crunch Staging
     url: https://app.ml.documentcrunch.com
   - name: Machine Learning API 
-    url: https://api.ml.documentcrunch.com
+    url: https://api.ml.documentcrunch.com/docs
   - name: Jupyter
-    url: https://juypter.ml.documentcrunch.com
+    url: https://jupyter.ml.documentcrunch.com    
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
