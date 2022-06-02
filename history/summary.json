@@ -10,34 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.91%",
-    "time": 290,
-    "timeDay": 434,
-    "timeWeek": 311,
-    "timeMonth": 295,
-    "timeYear": 290,
+    "time": 292,
+    "timeDay": 399,
+    "timeWeek": 318,
+    "timeMonth": 297,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2022-05-21": 36,
       "2022-05-04": 19
-    }
-  },
-  {
-    "name": "Document Crunch Staging",
-    "url": "https://app.ml.documentcrunch.com",
-    "icon": "https://favicons.githubusercontent.com/app.ml.documentcrunch.com",
-    "slug": "document-crunch-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 1091,
-    "timeWeek": 541,
-    "timeMonth": 372,
-    "timeYear": 347,
-    "dailyMinutesDown": {
-      "2022-06-02": 0
     }
   },
   {
@@ -51,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 192,
-    "timeDay": 382,
-    "timeWeek": 228,
-    "timeMonth": 197,
-    "timeYear": 192,
+    "time": 197,
+    "timeDay": 398,
+    "timeWeek": 252,
+    "timeMonth": 203,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -69,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 181,
-    "timeDay": 380,
-    "timeWeek": 232,
-    "timeMonth": 191,
-    "timeYear": 181,
+    "time": 186,
+    "timeDay": 393,
+    "timeWeek": 254,
+    "timeMonth": 198,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2022-04-20": 3,
       "2022-04-19": 37
