@@ -1,7 +1,7 @@
 url: https://jupyter.ml.documentcrunch.com/hub/api
-status: down
-code: 503
-responseTime: 150
-lastUpdated: 2022-06-07T04:11:03.713Z
+status: up
+code: 200
+responseTime: 159
+lastUpdated: 2022-06-07T04:42:20.986Z
 startTime: Wed Apr 20 2022 00:03:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
