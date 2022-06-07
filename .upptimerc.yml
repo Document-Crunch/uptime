@@ -5,10 +5,6 @@ repo: uptime # The name of this repository
 sites:
   - name: Document Crunch Production
     url: https://app.documentcrunch.com
-  - name: Machine Learning API 
-    url: https://api.ml.documentcrunch.com/docs
-  - name: Jupyter
-    url: https://jupyter.ml.documentcrunch.com/hub/api    
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
